@@ -5,7 +5,7 @@ I am an enthusiastic and self-motivated Software Engineer currently living in St
 
 
  **I am open to**:
-- any collobration work,
+- any collobration work
 - machine learning projects(development or research)
 
 
