@@ -4,10 +4,7 @@
 I am an enthusiastic and self-motivated Software Engineer currently living in Stockholm,Sweden with experience in designing, developing and testing software, mainly responsive web applications, mobile apps, and interactive features that drive business growth and improve UX. Strong background in process-oriented software development .
 
 
- **I am open to**:
-- any collobration work
-- machine learning projects(development or research)
-
+ **I am open to any collobration work**
 
 ## Connect with me:
 
