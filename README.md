@@ -1,8 +1,7 @@
 
 ### Hi there, I'm [Ekow Baah-Nyarkoh](https://ekowbaah.dev) 👋
 
-I am an enthusiastic and self-motivated Software Engineer currently living in Stockholm,Sweden with experience in designing, developing and testing software, mainly responsive web applications, mobile apps, and interactive features that drive business growth and improve UX. Strong background in process-oriented software development .
-
+An enthused and self-motivated Software Engineer with 4+ years of experience designing, developing, and testing software, primarily responsive web applications, mobile apps, and interactive features that drive business growth and improve user experience. Experienced in process-oriented software development.
 
  **I am open to any collobration work**
 
