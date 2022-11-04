@@ -5,7 +5,7 @@ An enthused and self-motivated Software Engineer with 4+ years of experience des
 
 
 
-[![@ekowbaah's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@ekowbaah)
+[![@ekowbaah's Holopin board](https://holopin.io/api/user/board?user=ekowbaah)](https://holopin.io/@ekowbaah)
 
  **I am open to any collobration work**
 
