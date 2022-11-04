@@ -3,6 +3,10 @@
 
 An enthused and self-motivated Software Engineer with 4+ years of experience designing, developing, and testing software, primarily responsive web applications, mobile apps, and interactive features that drive business growth and improve user experience. Experienced in process-oriented software development.
 
+
+
+[![@ekowbaah's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@ekowbaah)
+
  **I am open to any collobration work**
 
 ## Connect with me:
