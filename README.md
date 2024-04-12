@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Ekow Baah-Nyarkoh](https://ekowbaah.dev) 👋
 
-An enthused and self-motivated Software Engineer with 4+ years of experience designing, developing, and testing software, primarily responsive web applications, mobile apps, and interactive features that drive business growth and improve user experience. Experienced in process-oriented software development.
+An enthused and self-motivated Software Engineer with 6+ years of experience designing, developing, and testing software, primarily responsive web applications, mobile apps, and interactive features that drive business growth and improve user experience. Experienced in process-oriented software development.
 
 
 
