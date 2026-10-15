@@ -1,10 +1,12 @@
 # Ekow Baah-Nyarkoh
 
-Software engineer in Sweden.
+Software engineer in Atlanta, GA.
 
 I build backend systems, developer tools, and the occasional frontend. Mostly Rust, TypeScript, and Angular.
 
-Some things I've been working on:
+I like small APIs, explicit failure modes, useful traces, and systems that stay boring under load.
+
+Currently tinkering with:
 
 - [forgeflow](https://github.com/ekowbaah/forgeflow) — durable jobs and worker orchestration
 - [streamforge](https://github.com/ekowbaah/streamforge) — a small distributed event log
